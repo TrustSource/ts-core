@@ -69,16 +69,16 @@ Feel free to use this repository to suggest features, improvements or bugs. Ever
 
 ## Contribute & Communicate
 We highly encourage all sorts of communication. We are here to help your compliance efforts taking up. For sure we also need to make our living, thus support contracts are welcome. But we also want to give back to the community that has offered so much to allow our work. If you want to reach out to us, please use one of the following channels:
-    - our [FAQ](https://support.trustsource.io/hc/en-us/sections/115000775369-TrustSource-FAQ)
-    - the [Knowledgbase](https://support.trustsource.io)
-    - [Issues](https://github.com/trustsource/ts-core/issues) - please use the correct repository!   
-    - [Support subscriptions](https://www.trustsource.io/support)
-    - [DevChannel](https://gitter.im/TrustSource/community) 4 contributors (via gitter) 
+- our [FAQ](https://support.trustsource.io/hc/en-us/sections/115000775369-TrustSource-FAQ)
+- the [Knowledgbase](https://support.trustsource.io)
+- [Issues](https://github.com/trustsource/ts-core/issues) - please use the correct repository!   
+- [Support subscriptions](https://www.trustsource.io/support)
+- [DevChannel](https://gitter.im/TrustSource/community) 4 contributors (via gitter) 
     
 In case you plan to contribute, you are highly welcome! We maintain a taskboard on Jira, which is linked to the issues of the correpsonding repos. Thus it is reltively simple to join work. However, some setup for the different developments might be required. Shortly we will provide a description on how to setup a dev env for each of the different environments. Meanwhile feel free to fork the repo and start working. We will be happy to receive your pull request. The pull request should provide the typical information such as 
-    * What has changed?
-    * Why?
-    * How has it been tested?
+* What has changed?
+* Why?
+* How has it been tested?
     
 PLEASE NOTE: Whenever you will be contributing something, you will have to state that you will comply with the contribution agreement. This means you will hand an non-exclusive, irrevocable, unlimited right to use, modify and distribute your contribution to the TrustSource project. For further details, please see the [contribution agreement](https://github.com/trustsource/CONTRIBUTION) in this repository.
 
